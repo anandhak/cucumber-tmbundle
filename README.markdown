@@ -1,3 +1,11 @@
+I have made a small hack to get this working on Textmate 2. Follow the same install instructions, except install it under a different
+location. So for TM2, 
+
+    cd ~/Library/Application\ Support/Avian/Bundles
+    git clone git://github.com/anandhak/cucumber-tmbundle.git Cucumber.tmbundle
+    
+Restart Textmate 2.
+
 Textmate Bundle for Cucumber
 ============================
 
