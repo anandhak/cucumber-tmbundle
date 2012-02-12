@@ -6,6 +6,9 @@ location. So for TM2,
     
 Restart Textmate 2.
 
+Note: I have currently got it to only work with spork. (Use the --drb options in cucumber.yml). It still has issues if you use it
+with Bundler.
+
 Textmate Bundle for Cucumber
 ============================
 
